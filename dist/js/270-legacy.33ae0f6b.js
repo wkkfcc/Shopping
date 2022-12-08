@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_test"]=self["webpackChunkvue_test"]||[]).push([[270],{2270:function(e,t,n){n.r(t),n.d(t,{default:function(){return f}});var u=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v(" 我是团购订单内容 ")])},r=[],s={name:""},l=s,c=n(1001),a=(0,c.Z)(l,u,r,!1,null,"6d853313",null),f=a.exports}}]);
+//# sourceMappingURL=270-legacy.33ae0f6b.js.map
